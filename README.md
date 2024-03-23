@@ -10,3 +10,8 @@ Dont attack others unless you have explicit permission from them.
 I dont own 100% of the code Im using.
 
 Use at your own risk.
+
+Scripts and Signals:
+
+https://github.com/rlynotJacquesL/Bad-Flipper/tree/BadUSB
+https://github.com/rlynotJacquesL/Bad-Flipper/tree/Sub-GHz
