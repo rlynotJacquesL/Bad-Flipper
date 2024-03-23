@@ -1,5 +1,5 @@
 # Bad-Flipper
-BadUSB/BT Payloads for Flipper Zero.
+BadUSB Scripts and Sub-GHz Signals for Flipper Zero.
 
 
 Disclaimer:
