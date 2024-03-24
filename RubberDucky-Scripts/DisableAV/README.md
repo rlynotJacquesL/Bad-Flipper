@@ -1,0 +1,1 @@
+Disable Microsoft Defender Antivirus (only works when on an admin account).
